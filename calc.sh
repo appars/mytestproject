@@ -3,7 +3,7 @@ echo " Enter one no."
 read n1
 echo "Enter second no."
 read n2
-
+# Calc Menu
 echo "1.Addition"
 echo "2.Subtraction"
 echo "3.Multiplication"
