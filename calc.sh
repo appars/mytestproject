@@ -16,7 +16,7 @@ case $ch in
 1)sum=`expr $n1 + $n2`
    echo "Sum ="$sum;;
 
-2)sum=`expr $n1 / $n2`
+2)sum=`expr $n1 + $n2`
    echo "Sub = "$sum;;
 
 3)sum=`expr $n1 \* $n2`
